@@ -6,18 +6,16 @@
 ⚖️ Pós-graduada em **Direito Administrativo**  
 
 Sou uma profissional com sólida experiência em **administração, análise de dados, contratos públicos e gestão de processos**
-
-
 ---
 
-## 🧑‍💻 Sobre mim
+## 🧑‍💻 Resumo Profissional
 
-- 💼 Experiência em **administração, contratos públicos e processos organizacionais**
-- 📊 Atuação com **Power BI, Excel e indicadores de desempenho**
-- 📋 Vivência em **gestão de projetos em TI**, com organização de demandas, prazos e documentação
-- 💻 Desenvolvimento de projetos em **HTML, CSS, JavaScript e Python**
-- 🗂️ Forte atuação em **processos administrativos, controle e análise de informações**
-- 🎯 Interesse em **dados, BI, sistemas administrativos e gestão de projetos tecnológicos**
+- Atuação em **administração pública e privada**
+- Experiência com **gestão administrativa, contratos públicos e faturamento**
+- Apoio à **análise de dados, indicadores e relatórios gerenciais**
+- Organização de **processos administrativos, estoque e patrimônio**
+- Acompanhamento de **processos, projetos e rotinas administrativas**
+- Interface entre **áreas administrativas e sistemas de informação**
 
 ---
 
@@ -32,6 +30,19 @@ Sou uma profissional com sólida experiência em **administração, análise de 
 | 📌 Gestão de Projetos em TI | Organização de tarefas, processos, documentação e acompanhamento de projetos |
 | 🎨 UX para Dados | Visualização e storytelling |
 
+---
+## 🛠️ Habilidades e Ferramentas
+
+- Análise de dados e indicadores  
+- Power BI e Excel  
+- Faturamento e prestação de contas  
+- Gestão de contratos públicos  
+- Processos administrativos e controle de estoque  
+- Gestão de projetos e acompanhamento de processos  
+- TOTVS  
+- Google Workspace  
+- Canva
+ 
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
