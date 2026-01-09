@@ -5,7 +5,7 @@
 📊 MBA em **Business Intelligence**  
 ⚖️ Pós-graduada em **Direito Administrativo**  
 
-Sou uma profissional com sólida experiência em **administração, análise de dados, contratos públicos e gestão de processos**, com atuação em **Tecnologia e Gestão de Projetos em TI**, integrando **gestão, dados e sistemas** para otimização de resultados organizacionais.
+Sou uma profissional com sólida experiência em **administração, análise de dados, contratos públicos e gestão de processos**
 
 
 ---
