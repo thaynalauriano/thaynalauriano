@@ -57,12 +57,6 @@ Sou uma profissional com sólida experiência em **administração, análise de 
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-![Thayná GitHub stats](https://github-readme-stats.vercel.app/api?username=thaynalauriano&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thaynalauriano&layout=compact&theme=tokyonight)
-
 ## 📫 Como me encontrar
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/thaynalauriano)
