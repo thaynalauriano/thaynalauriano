@@ -1,20 +1,23 @@
-## 👋 Olá! Eu sou a Thayná dos Santos Gadelha Lauriano
+## 👋 Olá! Eu sou a Thayná Lauriano
 
-🎓 Graduanda em **Análise e Desenvolvimento de Sistemas**  
+🎓 **Graduada em Gestão de Recursos Humanos**  
+💻 Graduanda em **Análise e Desenvolvimento de Sistemas**  
 📊 MBA em **Business Intelligence**  
 ⚖️ Pós-graduada em **Direito Administrativo**  
 
-Sou profissional com experiência administrativa e estou em transição para a área de **Tecnologia**, com foco em **dados, BI e desenvolvimento de sistemas**, unindo visão técnica e estratégica.
+Sou uma profissional com sólida experiência em **administração, análise de dados, contratos públicos e gestão de processos**, com atuação em **Tecnologia e Gestão de Projetos em TI**, integrando **gestão, dados e sistemas** para otimização de resultados organizacionais.
+
 
 ---
 
 ## 🧑‍💻 Sobre mim
 
-- 💼 Experiência nas áreas **administrativa, patrimônio, estoque e processos**
-- 📈 Atuação com **Power BI, Excel e análise de dados**
-- 💻 Desenvolvendo projetos em **Python, HTML, CSS e JavaScript**
-- 🎯 Interesse em **dados, sistemas e tecnologia aplicada ao terceiro setor**
-- 🚀 Buscando crescimento na interseção entre **Administração + Tecnologia**
+- 💼 Experiência em **administração, contratos públicos e processos organizacionais**
+- 📊 Atuação com **Power BI, Excel e indicadores de desempenho**
+- 📋 Vivência em **gestão de projetos em TI**, com organização de demandas, prazos e documentação
+- 💻 Desenvolvimento de projetos em **HTML, CSS, JavaScript e Python**
+- 🗂️ Forte atuação em **processos administrativos, controle e análise de informações**
+- 🎯 Interesse em **dados, BI, sistemas administrativos e gestão de projetos tecnológicos**
 
 ---
 
